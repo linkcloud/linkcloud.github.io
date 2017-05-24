@@ -6,6 +6,6 @@
 
 客户端: [https://github.com/yongkangchen/poker-client](https://github.com/yongkangchen/poker-client)
 
-线上体验：[http://www.xiaoyaogame.cn](http://www.xiaoyaogame.cn)
+成功案例线上体验：[http://www.xiaoyaogame.cn](http://www.xiaoyaogame.cn)
 
 QQ交流群：169660606（欢迎技术交流、商务市场合作、技术共建合作）
